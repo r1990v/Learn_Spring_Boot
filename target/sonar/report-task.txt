@@ -1,0 +1,6 @@
+projectKey=io.learn.springboot:learn-api
+serverUrl=http://d-313071505:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://d-313071505:9000/dashboard/index/io.learn.springboot:learn-api
+ceTaskId=AWP4CJA6qfrpnTxT4f2T
+ceTaskUrl=http://d-313071505:9000/api/ce/task?id=AWP4CJA6qfrpnTxT4f2T
